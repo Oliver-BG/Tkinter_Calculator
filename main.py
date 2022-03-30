@@ -137,3 +137,6 @@ calc = Calculator(root)
 calc.add_widgets()
 calc.add_numeric_button()
 root.mainloop()
+
+if __name__ == "__main__":
+    main()
